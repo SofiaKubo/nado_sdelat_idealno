@@ -11,12 +11,15 @@ The design features a looping background video and custom Raleway fonts.
 
 ## Project Structure
 
+```
 .
 ├── index.html # Main HTML page (Russian language content)
 ├── fonts/ # Webfont files and fonts.css
 ├── images/ # Poster image for the video
 ├── styles/ # Global stylesheet style.css
 └── video/ # MP4 video used as background
+
+```
 
 ## Technologies Used
 
